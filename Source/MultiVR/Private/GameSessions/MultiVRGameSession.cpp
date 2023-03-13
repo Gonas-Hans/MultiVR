@@ -14,6 +14,6 @@ void AMultiVRGameSession::FindSessions(TSharedPtr<const FUniqueNetId> UserID, bo
 	{
 		IOnlineSessionPtr Sessions = OnlineSub->GetSessionInterface();
 
-		if ()
+		//if ()
 	}
 }

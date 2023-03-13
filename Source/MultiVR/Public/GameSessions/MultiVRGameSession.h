@@ -27,4 +27,6 @@ public:
 
 private:
 	TSharedPtr<FOnlineSessionSearch> SearchSettings;
+
+	
 };
